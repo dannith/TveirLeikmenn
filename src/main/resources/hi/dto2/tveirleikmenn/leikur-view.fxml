@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.shape.*?>
+
+
+<Pane minHeight="500" minWidth="500" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/17.0.2-ea" fx:controller="hi.dto2.tveirleikmenn.Controller">
+   <children>
+       <Circle fx:id="p1" fill="red" radius="10.0" centerX="220" centerY="250"/>
+       <Circle fx:id="p2" fill="blue" radius="10.0" centerX="280" centerY="250"/>
+   </children>
+</Pane>
